@@ -5,7 +5,7 @@ An adaptive traffic control simulation leveraging real-time decision logic to op
 
 This project models an intelligent intersection capable of reacting in real time to changing traffic conditions. The system replaces fixed signal cycles with dynamic decision logic to improve flow efficiency while maintaining pedestrian safety.
 
-## Core Features
+## Core Features 
 
 ### Adaptive Traffic Control
 The simulation continuously evaluates the state of the intersection and adjusts signal behavior accordingly:
