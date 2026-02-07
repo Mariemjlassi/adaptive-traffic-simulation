@@ -45,7 +45,7 @@ The simulation continuously evaluates the state of the intersection and adjusts 
 ```bash
 git clone https://github.com/Mariemjlassi/adaptive-traffic-simulation.git
 cd adaptive-traffic-simulation
-
+```
 ### 2. Install dependencies
 pip install -r requirements.txt
 
